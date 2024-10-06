@@ -13,7 +13,7 @@ A Python tool to detect phishing URLs by analyzing domain similarity, suspicious
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shahshelby/PhishingProject01.git
+    git clone https://github.com/shahshelby/PhishingWatchdog.git
     cd PhishingWatchdog
     ```
 2. Install dependencies:
