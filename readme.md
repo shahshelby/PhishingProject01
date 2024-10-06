@@ -1,4 +1,4 @@
-# Phishing Link Scanner
+# Phishing Watchdog
 
 A Python tool to detect phishing URLs by analyzing domain similarity, suspicious patterns, and other indicators.
 
