@@ -35,3 +35,7 @@ Phishing URLs detected: 2
 ## Notes
 - **Domain Age Check:** Requires an active internet connection for WHOIS lookup.
 - **Contributions:** Feedback and contributions are welcome! Please submit pull requests or report issues.
+
+## License
+This project is under MIT License
+
