@@ -9,7 +9,7 @@ from datetime import datetime
 legitimate_domains = {'example.com', 'google.com', 'facebook.com'}
 
 # List of known phishing domains (for demonstration)
-known_phishing_domains = {'phishingsite.com', 'malicious.com', 'fakefacebook.com'}
+known_phishing_domains = {'phishingsite.com', 'malicious.com', 'fakefacebook.com', 'eunsonair.com', 'wallhome.com'}
 
 # Test URLs for scanning
 test_urls = {
@@ -20,6 +20,9 @@ test_urls = {
     'https://google.com',
     'http://new-phishing-site.xyz',
     'http://legitimate-url.com',
+    'http://www.eunsonair.com//login.html',
+    'http://www.wallhome.com/M5.php',
+    'http://simplyshmellies.com/magento/shell/act.php',
 }
 
 # Function to extract domain parts
